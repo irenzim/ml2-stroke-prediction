@@ -1,1 +1,0 @@
-# ml2-stroke-prediction
